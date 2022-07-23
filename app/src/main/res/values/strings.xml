@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="view_map">View_Map</string>
+    <string name="update_information">Update Information</string>
+    <string name="house_form">House Form</string>
+    <string name="insert_name">Insert Name</string>
+    <string name="insert_date">Insert date</string>
+    <string name="delivered">Delivered</string>
+    <string name="submitted">Submitted</string>
+</resources>

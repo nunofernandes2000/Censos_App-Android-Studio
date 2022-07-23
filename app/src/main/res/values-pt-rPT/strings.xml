@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mapa</string>
+    <string name="view_map">Mudar a vista</string>
+    <string name="update_information">Atualizar Informaçao</string>
+    <string name="house_form">Formulario Censos</string>
+    <string name="insert_name">Inserir Nome</string>
+    <string name="insert_date">Inserir Data</string>
+    <string name="submitted">Submetido</string>
+    <string name="delivered">Entregue</string>
+    <string name="title_activity_maps">Mapa</string>
+</resources>
